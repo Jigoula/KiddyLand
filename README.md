@@ -232,4 +232,4 @@
     </script>
 
 </body>
-</html># KiddyLand
+</html>
